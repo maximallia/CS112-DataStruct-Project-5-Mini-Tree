@@ -15,3 +15,5 @@ But the PartialTree class toString method will show this:
 Vertices:A PQ: (CA1) (CE2) (AD3) (AB4) (CB5) (CD4)
 
 (The A vertex is shown because it is the root. The C vertex is not shown.)
+
+MORE INFO: Assignment 5 Mini Tree.pdf
