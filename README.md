@@ -1,4 +1,4 @@
-# CS112-Project-5-Mini-Tree
+# CS112-DataStruct-Project-5-Mini-Tree
 
 Summary:
 
